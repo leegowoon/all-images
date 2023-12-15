@@ -16,7 +16,7 @@
    - ![image](https://github.com/leegowoon/all-images/assets/145514701/da1a51c0-deff-4566-973b-d0cd210be07a)
 
 # 🌮 url 주소 이미지 대량 다운받기
-- ImgDownloader > google에 복사한 이밎 url 넣기 
+- ImgDownloader > google에 복사한 이미지 url 넣기 > 다운로드
 ![image](https://github.com/leegowoon/all-images/assets/145514701/091eee31-1665-42f4-8510-ae7dff10d0e4)
 ![image](https://github.com/leegowoon/all-images/assets/145514701/70cbd53c-e654-4540-89bb-3f1f9dbb97b9)
 ![image](https://github.com/leegowoon/all-images/assets/145514701/5e8d9536-04bc-44dd-ba4f-46861b6ebd47)
